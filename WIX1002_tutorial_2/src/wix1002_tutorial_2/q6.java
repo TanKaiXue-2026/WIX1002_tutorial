@@ -1,4 +1,4 @@
-
+    
     package wix1002_tutorial_2;
 
     import java.util.Scanner;
